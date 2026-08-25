@@ -1,0 +1,1 @@
+if(navigator.userAgent.match("iPhone")){aler("你个豆包AI")}
